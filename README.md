@@ -3,6 +3,8 @@
 ## *📌 Overview*
 This project analyzes historical sales and profitability data for a printing company, with the goal of identifying key revenue drivers, margin behavior, and potential business risks. The analysis focuses on transforming raw transactional data into clear, decision-ready insights using a structured, business-first analytical approach.
 
+![Dashboard Preview](reports/figures/sales_analysis_plot.png)
+
 ---
 
 ## *🎯 Objectives*
